@@ -22,7 +22,7 @@ Is there relationship between a country's wealth and CO2 emissions per person? T
 It is possible for a country to see GDP increase whilst still cutting CO2 emissions. The UK's GDP and CO2 rose together through the industrial era, then there is a decoupling around 1970. Since 1970, GDP doubled while the country's CO2 emissions decreased by more than half. Note that his emission is based of territory and not consumption.
 
 # Predicting Per-Capita Emissions using Linear Regression
-Simple ML techniques were used to determine what features are best in order to predict a country's per-capita emissions. Please note that traditional feature selection techniques were not used, but rather were chosen based off what assumptions. Multiple linear regression using GDP-per-capita, energy-per-capita, and energy per GDP, with a correlation coefficientent of 0.43 was found. When standardizing the coeffiencts, it was shown that energy consumption per capita was the most significant feature. Note that this model explains only 43% of variation, so other features must be looked at for a fuller picture.
+Simple ML techniques were used to determine what features are best in order to predict a country's per-capita emissions. Please note that traditional feature selection techniques were not used, but rather were chosen based off what assumptions. Multiple linear regression using GDP-per-capita, energy-per-capita, and energy per GDP, with a R^2 of 0.43 was found. When standardizing the coeffiencts, it was shown that energy consumption per capita was the most significant feature. Note that this model explains only 43% of variation, so other features must be looked at for a fuller picture.
 
 
 
