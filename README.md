@@ -14,7 +14,7 @@ Interestingly, the list changes when measuring CO2-per-capita: Qatar, Kuwait, Br
 
 # Global Emissions Over Time
 A graph was created to examine how global CO2 emissions have chagned thoughout history. The data goes back from 1750 to 2024. Global emissions are near xzero until around 1850, likley due to the INdustrial Revolution. There is a sharp increase in emissions after 1950, to today.
-![Global CO2 emiissions over time]("C:\Users\coinc\Downloads\global_emissions_chart.png")
+![Global CO2 emissions over time]("C:\Users\coinc\Downloads\global_emissions_chart.png")
 
 # Correlation Between Wealth and Emissions
 Is there relationship between a country's wealth and CO2 emissions per person? There is a strong correlation, with a few outliers. Sweden, France, and Switzerland are countries that have low emissions but are extremely wealthy. There are signs that other energy sources that are clean and renewable are being used more in these nations.
