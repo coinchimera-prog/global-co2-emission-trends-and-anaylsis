@@ -34,6 +34,8 @@ print(corr)
 # Decoupling Economic Growth and CO2 emissions
 It is possible for a country to see GDP increase whilst still cutting CO2 emissions. The UK's GDP and CO2 rose together through the industrial era, then there is a decoupling around 1970. Since 1970, GDP doubled while the country's CO2 emissions decreased by more than half. Note that this emission is based of territory and not consumption.
 
+![UK GDP vs. CO2 emissions, 1820-2024](uk_decoupling_chart.png)
+
   
 
 # Predicting Per-Capita Emissions using Linear Regression
