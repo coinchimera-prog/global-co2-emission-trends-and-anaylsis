@@ -1,6 +1,6 @@
 # Analysis of Global Emission Trends and Drivers
 Data was extracted from the OWID(Our World in Data) co2 data repsository, which contain information on CO2 emissions on over 164 countries, and other variables such as year, is
-o code, population, GDP, co2, co2-per-capita, energy-per-capita, and energy-per-GDP. Basic data cleaning, EDA, and simple linear regression were used in this project.
+o code, population, GDP, co2, co2-per-capita, energy-per-capita, and energy-per-GDP. Python and its libraries: pandas, scikit-learn, and matplotlib were used. Basic data cleaning, EDA, and simple linear regression were also used in this project.
 NOTE: Generative AI was used to assist in some coding blocks.
 
 # Link to Dataset
